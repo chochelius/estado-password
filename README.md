@@ -1,3 +1,6 @@
+Estoy terminando este y los ultimos dos desafíos, debería estar listo lo antes posible. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
